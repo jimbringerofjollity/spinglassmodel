@@ -1,6 +1,6 @@
 # spinglassmodel
 
-Spin glass model of entailment of syntactic parameters
+Spin glass model of entailment of syntactic parameters - Jim Tao
 
 To compile the simulation, execute the following Linux command:
 
